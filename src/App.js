@@ -47,6 +47,6 @@ function App() {
       <div>{todos.filter(todo => !todo.complete).length} left to do</div>
     </>
   )
-}
+};
 
 export default App
