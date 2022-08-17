@@ -8,13 +8,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-ReactDOM.render(<h1>Hello, everyone</h1>, document.getElementById('root'))
-ReactDOM.render(
-<div>
-  <ul>
-    <li>money</li>
-    <li>power</li>
-    <li>epiphany</li>
-  </ul>
-</div>,document.getElementById('root'))
