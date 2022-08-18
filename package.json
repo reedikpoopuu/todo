@@ -2,7 +2,7 @@
   "name": "220812-todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://reedikpoopuu.github.io",
+  "homepage": "https://reedikpoopuu.github.io/todo",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
